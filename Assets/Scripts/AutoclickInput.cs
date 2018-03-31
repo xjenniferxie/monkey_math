@@ -17,6 +17,10 @@ public class AutoclickInput : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        inputField.ActivateInputField();
+        
+        //if click enter to submit answer
+            //if right, shoot banana, happy monkey drop, increase score
+            //if wrong, flash red, clear field, adjust for sad monkey 
     }
 }
