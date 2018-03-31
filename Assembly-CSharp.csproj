@@ -52,6 +52,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AutoclickInput.cs" />
+     <Compile Include="Assets\Scripts\BananaMovement.cs" />
+     <Compile Include="Assets\Scripts\CreateMonkey.cs" />
+     <Compile Include="Assets\Scripts\MonkeyMovement.cs" />
+     <Compile Include="Assets\Scripts\SimpleTimer.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
